@@ -1,0 +1,11 @@
+C:\Users\Zygis\Desktop\Balticum Armadeus\Uzduotis\Uzduotis\bin\Debug\Uzduotis.exe.config
+C:\Users\Zygis\Desktop\Balticum Armadeus\Uzduotis\Uzduotis\bin\Debug\Uzduotis.exe
+C:\Users\Zygis\Desktop\Balticum Armadeus\Uzduotis\Uzduotis\bin\Debug\Uzduotis.pdb
+C:\Users\Zygis\Desktop\Balticum Armadeus\Uzduotis\Uzduotis\obj\Debug\Uzduotis.csprojResolveAssemblyReference.cache
+C:\Users\Zygis\Desktop\Balticum Armadeus\Uzduotis\Uzduotis\obj\Debug\Uzduotis.Form1.resources
+C:\Users\Zygis\Desktop\Balticum Armadeus\Uzduotis\Uzduotis\obj\Debug\Uzduotis.Properties.Resources.resources
+C:\Users\Zygis\Desktop\Balticum Armadeus\Uzduotis\Uzduotis\obj\Debug\Uzduotis.csproj.GenerateResource.Cache
+C:\Users\Zygis\Desktop\Balticum Armadeus\Uzduotis\Uzduotis\obj\Debug\Uzduotis.exe
+C:\Users\Zygis\Desktop\Balticum Armadeus\Uzduotis\Uzduotis\obj\Debug\Uzduotis.pdb
+C:\Users\Zygis\Desktop\Balticum Armadeus\Uzduotis\Uzduotis\bin\Debug\CsvHelper.dll
+C:\Users\Zygis\Desktop\Balticum Armadeus\Uzduotis\Uzduotis\bin\Debug\CsvHelper.xml

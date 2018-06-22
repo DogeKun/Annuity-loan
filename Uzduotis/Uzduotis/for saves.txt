@@ -1,0 +1,17 @@
+﻿				string MoneyLeft = Math.Round(moneyAmount, 2).ToString();
+                MoneyLeft = MoneyLeft.Replace(",", ".");
+                string PrincipalPayment = Math.Round(annuity.getPrincipalPayment(), 2).ToString();
+                PrincipalPayment = PrincipalPayment.Replace(",", ".");
+                string IntrestPayment = Math.Round(annuity.getIntrestPayment(), 2).ToString();
+                IntrestPayment = IntrestPayment.Replace(",", ".");
+                string TotalPayment = Math.Round(totalPayment, 2).ToString();
+                TotalPayment = TotalPayment.Replace(",", ".");
+
+				string MoneyLeft = (Math.Floor(moneyAmount * 100) / 100).ToString();
+                MoneyLeft = MoneyLeft.Replace(",", ".");
+                string PrincipalPayment = (Math.Floor(annuity.getPrincipalPayment() * 100) / 100).ToString();
+                PrincipalPayment = PrincipalPayment.Replace(",", ".");
+                string IntrestPayment = (Math.Floor(annuity.getIntrestPayment() * 100) / 100).ToString();
+                IntrestPayment = IntrestPayment.Replace(",", ".");
+                string TotalPayment = (Math.Floor(totalPayment * 100) / 100).ToString();
+                TotalPayment = TotalPayment.Replace(",", ".");
